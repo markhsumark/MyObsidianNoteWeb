@@ -1,1 +1,0 @@
->起點終點一樣的[simple path](simple%20path.md)

@@ -1,1 +1,0 @@
->具有相同hash address之data極易存放在連續的Buckets中，形成群聚。
