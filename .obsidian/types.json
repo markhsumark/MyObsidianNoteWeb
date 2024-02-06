@@ -1,0 +1,21 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "date created": "date",
+    "todo": "text",
+    "date deadline": "date",
+    "importance": "number",
+    "status": "checkbox",
+    "焙度": "text",
+    "tag": "multitext",
+    "place": "text",
+    "date_created": "date",
+    "Created_time": "date",
+    "器材": "text",
+    "author": "multitext",
+    "done": "checkbox",
+    "grade": "number"
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "13f59b9b0c8d0bd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6039b26c5eaa074",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "750c72f0e043f15c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🌄生活筆記.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1111f25eebb661e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "636f7c548d60adb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76533bfb87987f9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a69f45c394d6670a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b02e89f39b92eaf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 221
+  },
+  "right": {
+    "id": "c1d291a2a8d25fb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c3a7a6b128c0483",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b79aa8588abf42a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🌄生活筆記.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1929645f0787e193",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🌄生活筆記.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "13e87d929cf446d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "652552bfcb993699",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🌄生活筆記.md"
+              }
+            }
+          },
+          {
+            "id": "0e45a90301367177",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 336.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "750c72f0e043f15c",
+  "lastOpenFiles": [
+    "test.md",
+    "🌄生活筆記.md",
+    "Course/Linux kernel.md",
+    "考研筆記/資料結構/CH5 Tree and Binary Tree/Build a Heap with n nodes.md",
+    "考研筆記/資料結構/CH5 Tree and Binary Tree/Binary Tree sorting.md",
+    "考研筆記/資料結構/CH5 Tree and Binary Tree/Binary Search Tree.md",
+    "考研筆記/資料結構/CH5 Tree and Binary Tree/B.T Height.md",
+    "考研筆記/資料結構/CH2 Array& CH4 Link List/CH2 Array& CH4 Link List.md",
+    "考研筆記/資料結構/CH1演算法/Variable space.md",
+    "考研筆記/資料結構/CH1演算法/Fixed space.md",
+    "考研筆記/資料結構/CH1演算法/Analysis(or 預估)方法.md",
+    "考研筆記/資料結構/CH1演算法/數學/Towers of Hanoi.md",
+    "考研筆記/資料結構/CH1演算法/數學/Fibonacci Number ⭐️⭐️⭐️⭐️⭐️.md",
+    "考研筆記/資料結構/CH1演算法/數學/Binomial coe..md",
+    "考研筆記/資料結構/CH1演算法/數學/Ackerman's function.md",
+    "考研筆記/作業系統/CH9 Disk Management/Random(Direct) Access.md",
+    "考研筆記/作業系統/CH9 Disk Management/physical formatting(low-level formatting).md",
+    "考研筆記/作業系統/CH9 Disk Management/parity-check.md",
+    "考研筆記/作業系統/CH9 Disk Management/Mirror.md",
+    "考研筆記/作業系統/CH9 Disk Management/logical formatting(high-level formatting).md",
+    "考研筆記/作業系統/CH9 Disk Management/Linked Allocation.md",
+    "考研筆記/作業系統/CH9 Disk Management/Link list.md",
+    "考研筆記/作業系統/CH9 Disk Management/Index Allocation.md",
+    "考研筆記/作業系統/CH9 Disk Management/I-Node.md",
+    "考研筆記/作業系統/CH9 Disk Management/Grouping.md",
+    "考研筆記/作業系統/CH9 Disk Management/FAT.md",
+    "attachment/Pasted image 20240205124516.png",
+    "todo_file/attachment/Pasted image 20240205153900.png",
+    "todo_file/attachment/Pasted image 20240205154110.png",
+    "todo_file/attachment/Pasted image 20240205154108.png",
+    "🏠HOME.html",
+    "Life/attachment/image.jpg",
+    "todo_file/attachment/Pasted image 20240130230400.png",
+    "todo_file/attachment/Pasted image 20240129134208.png",
+    "Investigation",
+    "Life/attachment/大阪周遊卡地圖.pdf",
+    "Life/attachment",
+    "Life",
+    "Course",
+    "Perceptive Packet Scheduling for Carrier Aggregation in Satellite Communication Systems.key",
+    "Personal_study&work",
+    "paper",
+    "1121學期課程紀錄",
+    "20240110~20240116/image/Pasted image 20240115211621.png",
+    "20240110~20240116/image/Pasted image 20240115235417.png",
+    "Untitled.canvas"
+  ]
+}

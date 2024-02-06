@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./attachment",
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "mobileQuickRibbonItem": "homepage:Open homepage",
+  "defaultViewMode": "preview"
+}

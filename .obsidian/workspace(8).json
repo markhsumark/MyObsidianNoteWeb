@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "13f59b9b0c8d0bd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b00084011a089724",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c20b582ceefcf8a6",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "✏️Personal_study&work.md"
+              }
+            }
+          },
+          {
+            "id": "49628324fbc60e79",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "✅TO-DO.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1111f25eebb661e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "636f7c548d60adb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76533bfb87987f9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a69f45c394d6670a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b02e89f39b92eaf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c1d291a2a8d25fb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c3a7a6b128c0483",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b79aa8588abf42a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "✏️Personal_study&work.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1929645f0787e193",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "✏️Personal_study&work.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "13e87d929cf446d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "652552bfcb993699",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "✏️Personal_study&work.md"
+              }
+            }
+          },
+          {
+            "id": "0e45a90301367177",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "c20b582ceefcf8a6",
+  "lastOpenFiles": [
+    "Personal_study&work/Leetcode 75題.md",
+    "🏠HOME.md",
+    "📃Paper.md",
+    "✏️Personal_study&work.md",
+    "Personal_study&work/整理學期資料.md",
+    "Personal_study&work/Core plugin.md",
+    "Personal_study&work/python iclond sync.md",
+    "Personal_study&work/Tmux.md",
+    "Personal_study&work/Vim.md",
+    "✅TO-DO.md",
+    "實驗室計畫/20240123.md",
+    "考研筆記/考研規劃＆進度.md",
+    "考研筆記/首頁.md",
+    "考研筆記/分數紀錄.md",
+    "🔬Lab.md",
+    "Lab.md",
+    "實驗室計畫/8U工作說明.md",
+    "Templates/工研院工項.md",
+    "Templates/New Course.md",
+    "Templates/paper note.md",
+    "Templates/todo template.md",
+    "20240123.md",
+    "Templates/personal_study&work template.md",
+    "📘Course.md",
+    "Paper.md",
+    "Investigation",
+    "Personal_study&work.md",
+    "Life/attachment/大阪周遊卡地圖.pdf",
+    "Life/attachment",
+    "Life",
+    "Course",
+    "Perceptive Packet Scheduling for Carrier Aggregation in Satellite Communication Systems.key",
+    "Personal_study&work",
+    "paper",
+    "1121學期課程紀錄",
+    "實驗室計畫",
+    "20240110~20240116/image/Pasted image 20240115211621.png",
+    "20240110~20240116/image/Pasted image 20240115235417.png",
+    "Untitled.canvas"
+  ]
+}
